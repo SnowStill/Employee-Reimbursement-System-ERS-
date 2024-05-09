@@ -1,0 +1,16 @@
+.resolve-button{ 
+    background: linear-gradient(to right, #191f94 5%, #0e36a5 79%);
+    backdrop-filter: blur(25px);
+    height: 35%;
+    width: 20%;
+    margin-left:2px;
+    margin-right:auto;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color: turquoise;
+}
